@@ -1,11 +1,11 @@
 [About us](files/about.md) | [Members](files/members.md) | [Divisions](files/divisions.md) | [News](news.md) | 
  [Messages](files/messages.md) | [Gallery](gallery.md)
 
-
-
 ## IEI Ludhiana Local Centre
 IEI Ludhiana Local Centre in the Service of Engineering Profession and Engineering Community. It functions with and amongst the professional engineers, academicians and researchers and provides a vast array of technical, professional and supporting services to the Government and the industries along with the academic and engineering communities.
 Its main aim is to uplift and promote Engineering culture, discipline and its relevant practices.
+
+![AddressByPresident](images/address.jpeg)
 
 ### IEI Ludhiana Local Centre
 
