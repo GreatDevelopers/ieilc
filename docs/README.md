@@ -13,25 +13,6 @@ IEI Ludhiana Local Centre in the Service of Engineering Profession and Engineeri
 
 Its main aim is to uplift and promote Engineering culture, discipline and its relevant practices.
 
-### Engineering Divisions of The Institution of Engineers (India)
-The various Engineering Divisions established by The Institution of Engineers (India) are as under :
-
-- Aerospace Engineering Division
-- Agricultural Engineering Division
-- Architectural Engineering Division
-- Chemical Engineering Division
-- Civil Engineering Division
-- Computer Engineering Division
-- Electrical Engineering Division
-- Electronics and Telecommunication Engineering Division
-- Environmental Engineering Division
-- Marine Engineering Division
-- Mechanical Engineering Division
-- Metallurgical and Materials Engineering Division
-- Mining Engineering Division
-- Production Engineering Division
-- Textile Engineering Division
-
 ### Chairman’s message 
 It is a matter of extreme pride to head a prestigious chapter of the Institution of Engineers(India), the oldest body of engineers in the country. The Ludhiana local chapter boasts of a unparalleled legacy and I and my team for the 2024-26 shall strive hard to maintain this tradition. With your cooperation and support, we wish to hold a whole lot of technical activities. Our endeavour is to increase our member base and also ensure that Engineers associated with local chapter develop a sense of belonging and cooperate with each other for enhancement of technical collaboration. Let us all join hands to make our chapter a wonderful vibrant chapter.
 
