@@ -5,13 +5,15 @@
 IEI Ludhiana Local Centre in the Service of Engineering Profession and Engineering Community. It functions with and amongst the professional engineers, academicians and researchers and provides a vast array of technical, professional and supporting services to the Government and the industries along with the academic and engineering communities.
 Its main aim is to uplift and promote Engineering culture, discipline and its relevant practices.
 
-![AddressByPresident](images/address.jpeg)
+![AddressByPresident](images/DrArvindDhingraChairman.jpeg)
 
 ### IEI Ludhiana Local Centre
 
 IEI Ludhiana Local Centre in the Service of Engineering Profession and Engineering Community. It functions with and amongst the professional engineers, academicians and researchers and provides a vast array of technical, professional and supporting services to the Government and the industries along with the academic and engineering communities.
 
 Its main aim is to uplift and promote Engineering culture, discipline and its relevant practices.
+
+![AddressByPresident](images/address.jpeg)
 
 ### Chairman’s message 
 It is a matter of extreme pride to head a prestigious chapter of the Institution of Engineers(India), the oldest body of engineers in the country. The Ludhiana local chapter boasts of a unparalleled legacy and I and my team for the 2024-26 shall strive hard to maintain this tradition. With your cooperation and support, we wish to hold a whole lot of technical activities. Our endeavour is to increase our member base and also ensure that Engineers associated with local chapter develop a sense of belonging and cooperate with each other for enhancement of technical collaboration. Let us all join hands to make our chapter a wonderful vibrant chapter.
